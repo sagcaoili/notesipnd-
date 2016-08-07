@@ -1,0 +1,46 @@
+body {
+    color: #fff;
+    font-family: 'Titillium Web', sans-serif;
+    box-sizing: border-box;
+}
+
+p,
+li {
+    color: #fff;
+}
+
+b {
+    font-weight: 700;
+}
+
+.title,
+.stageheading {
+    text-align: center;
+    padding-top: 50px;
+    background-color: #487B85;
+    text-shadow: 3px 3px #000;
+}
+
+.banner {
+    width: 100%;
+    margin-top: -35%;
+    margin-bottom: -35%;
+}
+
+
+.stage {
+    background-color: #487B85;
+    padding-bottom: .2%;
+    
+}
+
+
+.concept {
+    background-color: #134852;
+    padding: 2%;
+    margin: 8%;
+    border: 10px solid white;
+    border-radius: 5px;
+    /*Box-shadow from Team Treehouse Guil Hernandez    */
+    box-shadow: 15px 15px 10px 20px rgba(0, 0, 0, .8);
+}
